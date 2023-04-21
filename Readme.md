@@ -1,7 +1,5 @@
-*MohammadSina GhanbariPakdehi* Steady-State Heat Transfer Modeling the
-Finned-Plate HEX
 
-> **1.Introduction**
+> **Introduction**
 
 Heat Exchangers have a vital role in any industry. One of the popular
 types of them is Finned-Plate Heat Exchangers. Finned plate heat
